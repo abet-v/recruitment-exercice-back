@@ -1,6 +1,6 @@
 # Recruitment exercise
 
-Contact John for any question: john@bellman.immo
+Contact John for any question: #####"
 
 ## Objectives
 
