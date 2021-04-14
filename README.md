@@ -14,7 +14,7 @@ You are evaluated on :
 
 ## Delivery instructions
 
-Send us by email (john@bellman.immo) your project within 4 hours after checking out the exercise for the first time. Your project must be contained in a zip archive, cleaned of any working files.
+Send us by email (#####) your project within 4 hours after checking out the exercise for the first time. Your project must be contained in a zip archive, cleaned of any working files.
 
 ## Guidelines
 
